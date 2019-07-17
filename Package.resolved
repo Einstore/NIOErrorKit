@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "swift-nio",
+        "repositoryURL": "https://github.com/apple/swift-nio.git",
+        "state": {
+          "branch": null,
+          "revision": "334815f6580b5256409d48431751938c4e966e72",
+          "version": "2.4.0"
+        }
+      },
+      {
+        "package": "WebError",
+        "repositoryURL": "https://github.com/Einstore/WebErrorKit.git",
+        "state": {
+          "branch": null,
+          "revision": "183170b95c46ca5a900d0ea870980c9c280a573a",
+          "version": "0.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
